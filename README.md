@@ -1,2 +1,2 @@
-# assignment3-cdilsiz5
-Java Philopsh chopstick algorithm question solved by using Java Threads and OOP 
+# Philopsh chopstick  question  
+ Philopsh chopstick  question solved by using Java Threads and Java OOP 
